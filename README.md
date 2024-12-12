@@ -1,29 +1,29 @@
-# exchange
+![Header](header.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+<h1 align="center"> EXCHANGE </h1>
 
-## Recommended IDE Setup
+This is simple Vue.js project for Crypto currency convertation.
+<br>
+<h2 align="center"> Features </h2>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+You may make exchange or see the rate of 3 Cryptos between themselves
 
-## Customize configuration
+*BTC - ETH - USDT*
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![Crypto Box](CryptoBox.png)
+<br>
+<h2 align="center"> Configuration </h2>
 
-## Project Setup
+- You need to select 2 Items to convert, one from left box and the other - right:
 
-```sh
-npm install
-```
+*BTC - UDST*
+![Exchange Groupe](exchangeGroupe.png)
 
-### Compile and Hot-Reload for Development
+- After input amount and press the button
+<br>
+<h3 align="center">  Hope you find it nice </h3>
 
-```sh
-npm run dev
-```
+If you like this project please put the star ⭐
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+
