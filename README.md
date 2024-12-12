@@ -1,29 +1,37 @@
-![Header](header.png)
+
+<p align="center">
+  <img src="header.png" alt="Crypto Box" width="100%" height="200"/>
+</p>
 
 <h1 align="center"> EXCHANGE </h1>
 
-This is simple Vue.js project for Crypto currency convertation.
+<p align="center">This is simple Vue.js project for Crypto currency convertation for desktop version.</p>
 <br>
 <h2 align="center"> Features </h2>
 
-You may make exchange or see the rate of 3 Cryptos between themselves
+<p align="center">You may make exchange or see the rate of 3 Cryptos between themselves</p>
 
-*BTC - ETH - USDT*
+<p align="center">BTC - ETH - USDT</p>
 
-![Crypto Box](CryptoBox.png)
+<p align="center">
+  <img src="CryptoBox.png" alt="Crypto Box" width="200" height="150"/>
+</p>
 <br>
 <h2 align="center"> Configuration </h2>
 
-- You need to select 2 Items to convert, one from left box and the other - right:
+<p align="center">- You need to select 2 Items to convert, one from left box and the other - right:</p>
 
-*BTC - UDST*
-![Exchange Groupe](exchangeGroupe.png)
+<p align="center">BTC - UDST</p>
 
-- After input amount and press the button
+<p align="center">
+  <img src="exchangeGroupe.png" alt="Crypto Box" width="600" height="200"/>
+</p>
+
+<p align="center">- After input amount and press the button</p>
 <br>
-<h3 align="center">  Hope you find it nice </h3>
+<h2 align="center">  Hope you find it nice </h2>
 
-If you like this project please put the star ⭐
+<p align="center">If you like this project please put the star ⭐</p>
 
 
 
